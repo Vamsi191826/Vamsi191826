@@ -85,4 +85,4 @@ FPGA acceleration, and VLSI physical design.
 
 **GitHub:** https://github.com/Vamsi191826
 
-**LinkedIn:** Add your LinkedIn profile URL
+**LinkedIn:** https://www.linkedin.com/in/vamsi-krishna-dwibhashyam-866357242/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnqHOwetPQbCjV%2BHGI3%2FMoQ%3D%3D
